@@ -18,11 +18,10 @@
       	"mixins.statssearch.json"
     ],
     "depends": {
-        "fabric": "*"
+        "fabric-api": "*"
     },
     "recommends": {
-        "modmenu" : "*",
-        "modupdater": ">=1.1.7"
+        "modmenu" : "*"
     },
     "name": "StatsSearch",
     "description": "Helps finding statistics entries",
